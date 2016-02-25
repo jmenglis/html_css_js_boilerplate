@@ -4,7 +4,7 @@
 # IntelliJ project files
 .idea
 .idea/
-.idea/*.xml
+.idea/vcs.xml
 *.iml
 out
 gen
