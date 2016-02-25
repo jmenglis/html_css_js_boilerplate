@@ -1,7 +1,6 @@
 // we want to wait for all the things
 // on the page to load before doing anything
-
-window.onLoad = function(event) {
+window.onload = function(event) {
     // anything called or done inside of here
     // will only occur after the page has loaded
     // every image, file, style, etc.
